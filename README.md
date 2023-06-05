@@ -6,6 +6,6 @@ Landing page for hospital management system using html,css,javascript.
 2. Any web browser with latest version.
 
 # Languages and technology used
-1.HTML5/CSS
-2.Javascript
-3.Bootstrap
+1. HTML5/CSS
+2. Javascript
+3. Bootstrap
